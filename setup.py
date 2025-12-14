@@ -57,5 +57,9 @@ setup(
     entry_points={
         "gui_scripts": [
             "AMDock=AMDock.Docking_Program:run"
-            ]}
+            ],
+        "console_scripts": [
+            "amdock-cli=AMDock.cli:main"
+        ]
+    }
 )

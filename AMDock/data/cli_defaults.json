@@ -1,0 +1,9 @@
+{
+  "pH": 7.4,
+  "forcefield": "amber",
+  "spacing_autodock": 0.375,
+  "spacing_autoligand": 1.0,
+  "protonation": false,
+  "protonation_program": "obabel",
+  "docking_program": "AutoDock Vina"
+}
